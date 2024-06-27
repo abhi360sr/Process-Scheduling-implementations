@@ -1,7 +1,8 @@
 # Process-Scheduling-implementations
 Process scheduling in C involves managing the order in which tasks (processes) are executed on a CPU. Algorithms like FCFS, SJF, RR, and priority scheduling dictate when processes run, aiming to optimize resource utilization and system responsiveness by determining which process gets CPU time next.
 
-Details
+
+
 Process scheduling in C is the practice of determining the sequence in which tasks (processes) are executed on a CPU within an operating system. This sequence is crucial for optimizing resource utilization and system responsiveness. Various scheduling algorithms, such as First-Come, First-Served (FCFS), Shortest Job First (SJF), Round Robin (RR), and Priority Scheduling, dictate the order in which processes are selected for execution.
 
 - **FCFS**: Processes are executed in the order they arrive, non-preemptively.
